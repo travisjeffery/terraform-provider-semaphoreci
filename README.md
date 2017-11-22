@@ -1,3 +1,3 @@
-semaphoreci terraform provider
+SemaphoreCI Terraform Provider
 ==============================
 
